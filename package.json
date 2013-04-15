@@ -1,0 +1,26 @@
+{
+  "name": "ngn-idk-rpc",
+  "version": "1.0.0",
+  "description": "The RPC IDK for NGN.",
+  "main": "lib/bootstrap.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --harmony test"
+  },
+  "repository": "",
+  "keywords": [
+    "NGN",
+    "RPC"
+  ],
+  "author": "Corey Butler <corey@nodengn.com> (http://www.nodengn.com)",
+  "license": "GPL",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "axon": "~0.5.1",
+    "axon-rpc": "0.0.2"
+  },
+  "devDependencies": {}
+}
