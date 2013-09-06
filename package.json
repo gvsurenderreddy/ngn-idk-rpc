@@ -1,6 +1,6 @@
 {
   "name": "ngn-idk-rpc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The RPC IDK for NGN.",
   "main": "lib/bootstrap.js",
   "directories": {
